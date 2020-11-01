@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   galaxy_battle = ["Rey", "Ben", "Finn", "Rose", "arrays!"]
-  galaxy_battle.pop("arrays!")
+  galaxy_battle.pop "arrays!"
 end
 
 def remove_element_from_start_of_array(array)
