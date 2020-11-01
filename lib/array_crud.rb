@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  galaxy_battle = ["Rey", "Ben", "Finn", "Rose"]
+  galaxy_battle << "Poe"
 end
 
 def add_element_to_start_of_array(array, element)
